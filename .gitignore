@@ -8,5 +8,5 @@
 /var/
 /vendor/
 /.idea/
-/README.md
+
 ###< symfony/framework-bundle ###
